@@ -38,7 +38,9 @@ float KiX = 0;
 float KdX = 1.5;                                              
 float KpY = 0.5;                                              
 float KiY = 0;                                                
-float KdY = 1.5;                                              
+float KdY = 1.5;
+                                              
+////////////////
 
 void setup() 
 {
